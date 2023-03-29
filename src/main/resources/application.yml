@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: dev,l2stdout
+
+logging:
+  level:
+    com:
+      abn: debug
