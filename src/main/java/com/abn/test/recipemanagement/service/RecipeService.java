@@ -2,6 +2,7 @@ package com.abn.test.recipemanagement.service;
 
 import com.abn.test.recipemanagement.model.Recipe;
 import com.abn.test.recipemanagement.model.RecipeRequest;
+import com.abn.test.recipemanagement.model.UpdateRecipe;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Sort;
 import org.springframework.http.HttpStatus;
@@ -18,5 +19,5 @@ public interface RecipeService {
 
     Recipe updateRecipeField(String recipeId, String fieldName, String newValue);
 
-    Recipe updateRecipe(Recipe recipe);
+    Recipe updateRecipe(UpdateRecipe updateRecipe);
 }

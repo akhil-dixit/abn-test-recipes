@@ -2,6 +2,7 @@ package com.abn.test.recipemanagement.controller;
 
 import com.abn.test.recipemanagement.model.Recipe;
 import com.abn.test.recipemanagement.model.RecipeRequest;
+import com.abn.test.recipemanagement.model.UpdateRecipe;
 import com.abn.test.recipemanagement.service.RecipeService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.Parameter;
@@ -83,17 +84,14 @@ public class RecipeController {
         return recipeService.addRecipe(recipeRequest);
     }
 
-    @GetMapping(value = "/deleteRecipe",
-            produces = MediaType.TEXT_HTML_VALUE
-    )
+    @DeleteMapping(value = "/deleteRecipe/{recipeId}")
     @Operation(
             summary = "Delete a recipe",
             description = "Delete a recipe with Id"
     )
     public HttpStatus deleteRecipe(
-            @RequestParam
             @Parameter(description = "RecipeId for which the recipe will be deleted")
-            String recipeId
+            @PathVariable String recipeId
     ) {
         return recipeService.deleteRecipe(recipeId);
     }
@@ -119,7 +117,7 @@ public class RecipeController {
         return recipeService.updateRecipeField(recipeId,fieldName,newValue);
     }
 
-    @PostMapping(value = "/updateRecipe",
+    @PutMapping(value = "/updateRecipe",
             produces = MediaType.APPLICATION_JSON_VALUE,
             consumes = MediaType.APPLICATION_JSON_VALUE
     )
@@ -127,7 +125,7 @@ public class RecipeController {
             summary = "Update a recipe",
             description = "Update the entire recipe with recipeId"
     )
-    public Recipe updateRecipe(@RequestBody Recipe recipe) {
-        return recipeService.updateRecipe(recipe);
+    public Recipe updateRecipe(@RequestBody UpdateRecipe updateRecipe) {
+        return recipeService.updateRecipe(updateRecipe);
     }
 }
