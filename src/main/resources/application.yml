@@ -1,0 +1,19 @@
+spring:
+  profiles:
+    active: dev,l2stdout
+management:
+  endpoint:
+    health:
+      enabled: true
+    info:
+      enabled: true
+    logfile:
+      enabled: true
+  endpoints:
+    web:
+      exposure:
+        include: [ 'info','health','logfile','routes' ]
+logging:
+  level:
+    com:
+      abn: debug
