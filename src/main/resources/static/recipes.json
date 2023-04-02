@@ -1,0 +1,398 @@
+[{
+  "_id": {
+    "$oid": "642309a437439177aa87b70b"
+  },
+  "recipeName": "Chicken curry",
+  "ownerName": "Rahul",
+  "servings": 4,
+  "ingredients": [
+    "Sunflower oil",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Chicken",
+    "Tomato",
+    "Yogurt",
+    "Coriander",
+    "Almond"
+  ],
+  "instructions": "Heat the oil in a flameproof casserole dish or large frying pan over a medium heat. Add the onion and a generous pinch of salt and fry for 8-10 mins, or until the onion has turned golden brown and sticky. Add the garlic and ginger, cooking for a further minute. Chop the chicken into chunky 3cm pieces, add to the pan and fry for 5 mins before stirring through the spice paste and tomatoes, along with 250ml water. Bring to the boil, lower to a simmer and cook on a gentle heat uncovered for 25-30 mins or until rich and slightly reduced. Stir though the yogurt, coriander and ground almonds, season and serve with warm naan or fluffy basmati rice.",
+  "preparationTime": 50,
+  "category": "Main Course",
+  "cuisine": "Indian",
+  "vegetarian": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680017828605"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680017828605"
+    }
+  },
+  "_class": "com.abn.test.recipemanagement.model.Recipe"
+},{
+  "_id": {
+    "$oid": "64230c3b37439177aa87b70c"
+  },
+  "recipeName": "Tacos",
+  "ownerName": "Carlos",
+  "servings": 12,
+  "ingredients": [
+    "Beef",
+    "Chili powder",
+    "Ground cumin",
+    "Salt",
+    "Oregano",
+    "Garlic powder",
+    "Ground black pepper",
+    "Tomato sauce",
+    "Water",
+    "Taco shells",
+    "Chopped onions",
+    "Shredded lettuce",
+    "Diced tomatoes"
+  ],
+  "instructions": "Add the beef to a large skillet over medium-high heat. Break the meat apart with a wooden spoon. Add the chili powder, cumin, salt, oregano, garlic powder, and pepper to the meat. Stir well. Cook until the meat is cooked through, about 6-8 minutes, stirring occasionally. Reduce the heat to medium. Add the tomato sauce and water. Stir to combine. Cook, stirring occasionally, for 7-8 minutes, until some of the liquid evaporates but the meat mixture is still a little saucy. Remove from the heat. Warm the taco shells according to their package directions. Fill the taco shells with 2 heaping tablespoons of taco meat. Top with desired taco toppings: shredded cheese, shredded lettuce, chopped tomatoes, diced red onion, taco sauce, sour cream, guacamole, etc.",
+  "preparationTime": 20,
+  "category": "Snack",
+  "cuisine": "Mexican",
+  "vegetarian": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680018491666"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680018491670"
+    }
+  },
+  "_class": "com.abn.test.recipemanagement.model.Recipe"
+},{
+  "_id": {
+    "$oid": "64230fbb37439177aa87b70d"
+  },
+  "recipeName": "Dal Makhani",
+  "ownerName": "Saroj",
+  "servings": 5,
+  "ingredients": [
+    "Whole black lentil",
+    "Red kidney beans",
+    "Butter",
+    "Salt",
+    "White onion",
+    "Giner-garlic paste",
+    "Tomato puree",
+    "Kashmiri red chilli powder",
+    "Water",
+    "Whole spices",
+    "Cream",
+    "Sugar",
+    "Ghee",
+    "Charcoal"
+  ],
+  "instructions": "Wash and rinse urad dal (whole black lentil) and rajma (kidney beans) in a large bowl. Soak in 3 cups water overnight. In the morning, drain the water in which the dal and rajma was soaked. Transfer the dal and rajma to a pressure cooker with 1 teaspoon salt. Add around 3.5 cups water. Pressure cook on high-medium heat for 10 whistles, then lower the heat to low-medium and cook for another 10 minutes. In total around 15 to 20 whistles. Let the pressure release naturally. The dal and rajma should be completely cooked and you should be able to mash them with your fingers. If using the Instant pot, pressure cook the lentils on high pressure for 30 minutes with natural pressure release. Mash some of the dal and rajma using a potato masher. Then turn on the heat to lowest heat and let the dal simmer while you make the masala. To make the masala, in a large pot/pan, heat 2 tablespoons butter  (I use and recommend amul salted butter here) and 1 tablespoon ghee on medium heat. Once the butter melts and is hot, add the finely grated onion. Cook the onion for around 6 to 7 minutes or until it turns light golden brown. Keep stirring it continuously so that it doesn't burn and keep heat on medium. Add the ginger garlic paste and cook for 1 to 2 minute until the raw smell goes away. Add the tomato puree and mix. Cook for 2 minutes or until the puree mixes well with masala and oil starts oozing out from the sides. Add in the boiled dal (which had been simmering for around 10 to 15 mins you were making the masala) and mix. Add garam masala, kashmiri red chili powder and salt. Mix to combine. Add 1/2 cup water, stir and set heat to low. Let it simmer on low heat uncovered for around 45 minutes. Stir often (every 10 minutes or so) else dal will stick to the bottom of the pot. You will also need to add water. I added total of 1.5 cups water as the dal was simmering. Add sugar and mix after the dal has simmered for 45 minutes. Also add the remaining 1 tablespoon butter and 1/4 cup cream. Mix well. Simmer for 10 more minutes on low heat after adding the cream. Dal will become really creamy by now. You may serve the dal at this point or do the additional step of giving it a smokey flavor. This last step (dhungar method) is optional but recommend. For the smokey flavor, place a steel bowl on top of a trivet placed inside the dal. Then heat a piece of charcoal over direct heat until its red hot. Place hot charcoal in that steel bowl on top of the trivet. Pour melted ghee (around 1 tablespoon) on top of charcoal. You will immediately see fumes coming out of charcoal. Immediately close the pan with a lid. Let it remain like this for 2 minutes. After 2 minutes, remove lid and remove the bowl from dal. The longer you keep the lid closed, the smokier dal will get and for dal makhani I don't like it very smokey so 2 minutes was good for me. You may do 5 minutes but don't do more. Garnish dal makhani with more cream and serve with a pat of amul butter.",
+  "preparationTime": 120,
+  "category": "Main Course",
+  "cuisine": "Indian",
+  "vegetarian": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680019387366"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680083666577"
+    }
+  },
+  "_class": "com.abn.test.recipemanagement.model.Recipe"
+},{
+  "_id": {
+    "$oid": "6423134418f7cd138ef200c1"
+  },
+  "recipeName": "Pepperoni Pizza",
+  "ownerName": "Brenda",
+  "servings": 16,
+  "ingredients": [
+    "Warm water",
+    "Active dry yeast",
+    "All-purpose flour",
+    "Kosher salt",
+    "Extra virgin olive oil",
+    "Semolina flour",
+    "Sugar",
+    "Tomato sauce",
+    "Mozzarella cheese",
+    "Pepperoni",
+    "Grated parmesan cheese"
+  ],
+  "instructions": "Bloom the yeast by sprinkling the sugar and yeast in the warm water. Let sit for 10 minutes, until bubbles form on the surface. In a large bowl, combine the flour and salt. Make a well in the middle and add the olive oil and bloomed yeast mixture. Using a spoon, mix until a shaggy dough begins to form. Once the flour is mostly hydrated, turn the dough out onto a clean work surface and knead for 10-15 minutes. The dough should be soft, smooth, and bouncy. Form the dough into a taut round. Grease a clean, large bowl with olive oil and place the dough inside, turning to coat with the oil. Cover with plastic wrap. Let rise for at least an hour, or up to 24 hours. Punch down the dough and turn it out onto a lightly floured work surface. Knead for another minute or so, then cut into 4 equal portions and shape into rounds. Lightly flour the dough, then cover with a kitchen towel and let rest for another 30 minutes to an hour while you prepare the sauce and any other ingredients. Preheat the oven as high as your oven will allow, between 450-500˚F (230-260˚C). Place a pizza stone, heavy baking sheet (turn upside down so the surface is flat), or cast iron skillet in the oven. Meanwhile, make the tomato sauce: Add the salt to the can of tomatoes and puree with an immersion blender, or transfer to a blender or food processor, and puree until smooth. Once the dough has rested, take a portion and start by poking the surface with your fingertips, until bubbles form and do not deflate. Then, stretch and press the dough into a thin round. Make it thinner than you think it should be, as it will slightly shrink and puff up during baking. Sprinkle semolina onto an upside down baking sheet and place the stretched crust onto it. Add the sauce and ingredients of your choice. Slide the pizza onto the preheated pizza stone or pan. Bake for 15 minutes, or until the crust and cheese are golden brown. Add any garnish of your preference. Enjoy!",
+  "preparationTime": 35,
+  "category": "Main Course",
+  "cuisine": "Italian",
+  "vegetarian": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680020292439"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680020292439"
+    }
+  },
+  "_class": "com.abn.test.recipemanagement.model.Recipe"
+},{
+  "_id": {
+    "$oid": "642316f35e2e45154d19a92e"
+  },
+  "recipeName": "Stroopwafels",
+  "ownerName": "Karin Engelbrecht",
+  "servings": 20,
+  "ingredients": [
+    "Active dry yeast",
+    "Lukewarm milk",
+    "Unsalted butter",
+    "Superfine sugar",
+    "Dutch cake flour",
+    "Cooking spray",
+    "Salt",
+    "Dutch molasses syrup",
+    "Brown sugar",
+    "Ground cinnamon"
+  ],
+  "instructions": "Gather the ingredients. In a medium bowl, dissolve the yeast in the lukewarm milk. If using active dry yeast, dissolve in 1/4 cup lukewarm milk and let the mixture sit 10 minutes to hydrate. Add the butter and superfine sugar. Stir to combine. Whisk the flour and salt together, then stir into the yeast-butter-sugar mixture. Cover the dough with a warm, moist dish towel and allow to rise in a warm place for 1 hour. Add the golden syrup to a small saucepan on medium-low heat. when the syrup is warm, stir in the brown sugar, butter, and cinnamon. Stir continuously until the sugar is melted. Remove from the heat and set aside to cool to lukewarm. Form dough into balls about 1 1/2-inches in diameter. Transfer the dough balls to a parchment-lined or greased cookie sheet; they should not touch each other. Cover with a warm, moist dish towel and allow to rise for 15 minutes. Heat the waffle iron and spray both sides lightly with cooking spray. Place 1 dough ball in the iron and bake until golden. This should take about 1 1/2 minutes in an electric waffle iron or 2 to 3 minutes in a stovetop version. Working quickly and use a clean kitchen towel to protect your hands from the heat, cut the waffles in half horizontally (a serrated bread knife works best). Spoon and spread about 1 tablespoon of syrup filling in the center of the waffle. Cover with the second sandwich half, pressing down lightly to help spread the filling inside. Let cool slightly, then serve.",
+  "preparationTime": 145,
+  "category": "Snack",
+  "cuisine": "Dutch",
+  "vegetarian": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680021234742"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680021234742"
+    }
+  },
+  "_class": "com.abn.test.recipemanagement.model.Recipe"
+},{
+  "_id": {
+    "$oid": "6424112df3a2da242096bdad"
+  },
+  "recipeName": "Honey Garlic Glazed Salmon",
+  "ownerName": "Amanda",
+  "servings": 2,
+  "ingredients": [
+    "Salmon",
+    "Ground spices",
+    "Butter",
+    "Oil",
+    "Garlic",
+    "Water",
+    "Soy sauce",
+    "Sriracha",
+    "Honey",
+    "Lemon juice"
+  ],
+  "instructions": "Pat salmon filets dry and season with spices on all sides. Heat butter and oil, then add garlic, water, soy sauce, sriracha, honey and lemon juice. When hot, add salmon filets (skin side down if your filets have skin), and cook 3 minutes. While salmon cooks, use a spoon to baste the filets. Broil for 5-6 minutes, until salmon is sticky sweet, slightly charred, and cooked to desired doneness.",
+  "preparationTime": 20,
+  "category": "Main Course",
+  "cuisine": "Norwegian",
+  "vegetarian": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680085292429"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680085292429"
+    }
+  },
+  "_class": "com.abn.test.recipemanagement.model.Recipe"
+},{
+  "_id": {
+    "$oid": "64241446f3a2da242096bdae"
+  },
+  "recipeName": "Tofu Stuffed Cucumber Sushi Roll",
+  "ownerName": "Yoko",
+  "servings": 4,
+  "ingredients": [
+    "Tofu",
+    "Paprika",
+    "Salt",
+    "Chilli powder",
+    "Ground black pepper",
+    "Oil",
+    "Sushi rice",
+    "Rice vinegar",
+    "Sugar",
+    "Lemon juice",
+    "Soy sauce",
+    "Honey",
+    "Almond butter",
+    "Grated ginger",
+    "Cucumber",
+    "Bell pepper",
+    "Green onions"
+  ],
+  "instructions": "Preheat oven to 400 degrees F (204 C). Pat tofu dry with paper towels, then cut into long ½ inch thick strips. Add to a bowl with the seasonings and gently rub to coat. Heat oil in a large oven-safe or cast iron skillet over medium/high. Add tofu and cook on all sides until crispy, about 5 minutes. Transfer dish to the oven and cook until tofu is dry and crispy, about 15 minutes. Cook rice according to instructions on package. When finished, don’t stir rice and allow it to cool for 10 minutes. In a small bowl combine rice vinegar, sugar, and salt until sugar dissolves. Stir into rice. Combine all Sauce ingredients in a small bowl, adding a dash of water as needed to create a smooth sauce. Set aside. Cut each cucumber in half and remove seeds with either a small spoon or knife to create a long, hollow tube. Spoon in a small amount of rice, then compress towards one side of the tube with a knife or chopsticks. Add a piece of tofu, a piece of green onion, and fill in the remaining gaps with slices of bell pepper. Pack it as tightly as possible! With a sharp knife, slice cucumber into ½ inch thick pieces. If you start to notice the filling is loose as you cut, stuff in some rice and peppers where needed.",
+  "preparationTime": 30,
+  "category": "Snack",
+  "cuisine": "Japanese",
+  "vegetarian": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680087690206"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680087690206"
+    }
+  },
+  "_class": "com.abn.test.recipemanagement.model.Recipe"
+},{
+  "_id": {
+    "$oid": "642431ffc50a8e10632b75cf"
+  },
+  "recipeName": "Cheesy Nachos",
+  "ownerName": "Melanie",
+  "servings": 4,
+  "ingredients": [
+    "Tortilla chips",
+    "Cheddar",
+    "Chopped green chilies",
+    "Chopped onion",
+    "Salsa"
+  ],
+  "instructions": "Preheat oven to 400 degrees. Lay tortilla chips on a cookie sheet. Sprinkle chilies and onion over chips. Drop salsa by small spoonfuls over chips. Sprinkle with shredded cheese. Bake for about 5 minutes until the cheese is melted. Serve immediately.",
+  "preparationTime": 6,
+  "category": "Snack",
+  "cuisine": "Mexican",
+  "vegetarian": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680093694869"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680093694870"
+    }
+  },
+  "_class": "com.abn.test.recipemanagement.model.Recipe"
+},{
+  "_id": {
+    "$oid": "6424347bc50a8e10632b75d0"
+  },
+  "recipeName": "Mac and Cheese",
+  "ownerName": "Amanda",
+  "servings": 5,
+  "ingredients": [
+    "Pasta",
+    "Butter",
+    "Flour",
+    "Milk",
+    "Cheese",
+    "Water",
+    "Salt"
+  ],
+  "instructions": "Boil the pasta, drain. Make the cheese sauce by combining a fat (butter), and starch (flour), then whisking in the milk products. Cook the sauce until it’s nice and thick. Add in shredded cheeses, stir well. Combine cheese sauce with cooked pasta. Transfer half of the mac and cheese to a baking dish, sprinkle with more shredded cheese. Top with the rest of the mac and cheese, top with more shredded cheese. Bake and prepare to thoroughly enjoy!",
+  "preparationTime": 35,
+  "category": "Main Course",
+  "cuisine": "American",
+  "vegetarian": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680094330947"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680094330954"
+    }
+  },
+  "_class": "com.abn.test.recipemanagement.model.Recipe"
+},{
+  "_id": {
+    "$oid": "64243730f7123077c3f46b5a"
+  },
+  "recipeName": "Mutton Curry",
+  "ownerName": "Richa",
+  "servings": 4,
+  "ingredients": [
+    "Mutton",
+    "Turmeric",
+    "Oil",
+    "Whole spices",
+    "Meat masala",
+    "Onions",
+    "Tomatoes",
+    "Potatoes",
+    "Ghee",
+    "Kasuri methi",
+    "Salt"
+  ],
+  "instructions": "Add turmeric and salt to the mutton or lamb and rub all over. Set aside. Heat oil in a pressure cooker (electric or stovetop) and saute fennel seeds, bayleaf, cinnamon, cardamom and cloves for a minute. Add two green chillies, onions and ginger garlic paste. Cook this for 10-12 minutes stirring occasionally till the onions are a deep brown. This is called bhuno. Add tomatoes, coriander powder, meat masala and salt and cook for 5 minutes till the tomatoes break down slightly. Add mutton, potatoes and two cups of water and put the lid on. If using a stovetop pressure cooker, cook on high pressure for 20-25 minutes (5-6 whistles). For the Instant Pot, cook on high pressure for 20 minutes and let the pressure release naturally or manually release the pressure after 15 minutes. Once the pressure is released, open the lid and switch on the flame again. Add more water if the gravy is too thick. Stir in garam masala, kasuri methi (if using), remaining green chillies, julienned ginger and ghee and simmer for another 3-4 minutes. Check and adjust seasoning. Let the curry rest for 15 minutes before serving.",
+  "preparationTime": 60,
+  "category": "Main Course",
+  "cuisine": "Indian",
+  "vegetarian": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680095024495"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680095024495"
+    }
+  },
+  "_class": "com.abn.test.recipemanagement.model.Recipe"
+},{
+  "_id": {
+    "$oid": "642452d89c506071034411a3"
+  },
+  "recipeName": "Dumplings",
+  "ownerName": "Ming",
+  "servings": 6,
+  "ingredients": [
+    "All-purpose flour",
+    "Salt",
+    "Lukewarm water",
+    "Red cabbage",
+    "Green onion",
+    "Garlic",
+    "Ginger",
+    "Soy sauce",
+    "Sesame oil",
+    "Pork",
+    "Ground black pepper",
+    "Mushroom",
+    "Carrot",
+    "Shrimp",
+    "Rice wine vinegar"
+  ],
+  "instructions": "In a large bowl, combine the flour, 1 teaspoon of salt, and the warm water and mix until well-combined. Roll out dough on a floured surface and knead until smooth. Divide the dough into 4 equal parts. Roll out 1 piece of dough into a thin log and divide into 6 or 8 pieces, depending on the size of dumplings you want. Repeat with the remaining dough portions. Lightly flour the dough pieces and roll out 1 piece into a thin circle roughly 4-inches (10 cm) in diameter. Keep the dumpling wrappers separated with a small piece of parchment paper and repeat with the remaining dough. Combine the cabbage, green onions, garlic, ginger, soy sauce, and sesame oil in a medium bowl and mix until well-incorporated. For the pork filling, combine the ground pork with the remaining teaspoon of salt, the pepper and 1 cup (125g) of the cabbage mixture and stir until well-incorporated. For the veggie filling, combine the mushrooms and carrot and microwave for 3 minutes, until soft. Add 1 cup (125g) of the cabbage mixture and stir until well-incorporated. For the shrimp filling, combine the shrimp with 1 cup (125g) of the cabbage mixture and stir until well-incorporated. To assemble the dumplings, add roughly 1 heaping tablespoon of filling to the center of a dumpling wrapper. With your finger, lightly coat half of the outside of the wrapper with water. Fold the moistened half of the wrapper over the filling and, using your fingers, pleat the edges to seal. Repeat with the remaining fillings and wrappers. Heat the oil over medium high in a large skillet and add a few dumplings, cooking them in batches. Once the bottoms of the dumplings start to brown, add a splash of water and cover with a lid. Steam for about 5 minutes, or until the dumplings are cooked and the water has evaporated. Transfer the cooked dumplings to a paper towel-lined plate to remove any excess moisture or grease. In a small bowl, combine the soy sauce, rice vinegar, sesame oil, and pepper flakes and stir to combine. Serve the dumplings immediately with the dipping sauce.",
+  "preparationTime": 50,
+  "category": "Snack",
+  "cuisine": "Chinese",
+  "vegetarian": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680102104777"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680102104777"
+    }
+  },
+  "_class": "com.abn.test.recipemanagement.model.Recipe"
+}]
